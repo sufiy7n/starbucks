@@ -1,0 +1,49 @@
+footer{
+    height: 500px;
+    background-color: rgb(252, 252, 252);
+
+}.footer-1{
+    height: 170px;
+    display: flex;
+    text-align: center;
+    padding-left: 275px;
+    padding-top: 80px;
+    border-bottom: 1px;
+    border-bottom-style:solid ;
+    border-bottom-color: rgb(183, 180, 180);
+}.footer-2{
+    height: 470px;
+    border-bottom: 1px;
+    border-bottom-style:solid ;
+    border-bottom-color: rgb(183, 180, 180);
+}
+
+
+
+.about-us{
+    
+    width: 200px;
+    padding-left: 60px;
+}h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin-bottom: 40px;
+}
+
+.footer-3{
+    height: 500px;
+    display: flex;
+    margin-top: 50px;
+    border-top: 1px;
+    border-top-style:solid ;
+    border-top-color: rgb(183, 180, 180);
+    margin-left: 30px;
+
+}h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100px;
+}
+img{
+    height: 35px;
+    margin-right: 35px;
+}
